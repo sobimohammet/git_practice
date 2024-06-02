@@ -1,0 +1,1 @@
+Hi, thi is my first official git practice and a demontration of my ability to use its basic functionalities.
